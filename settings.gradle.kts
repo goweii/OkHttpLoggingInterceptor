@@ -20,5 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "OkHttpLoggingInterceptor"
-include(":simple")
 include(":okhttp-logging-interceptor")
